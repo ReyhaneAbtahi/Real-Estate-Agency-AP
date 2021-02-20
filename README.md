@@ -1,6 +1,6 @@
 # Real-Estate-Agency-AP
 The goal of this project is to create a graphic program for property owners using **C++** and **QT**.
-This project was done as a team by me and @ReyhanehAbtahi.
+This project was done as a team by me and [@Farzaneh Koohestani](https://github.com/fark00).
 
 
 # Features of this program:
@@ -19,6 +19,6 @@ This project was done as a team by me and @ReyhanehAbtahi.
 
 **Contact me @:**
 
-e-mail: farzanehkoohestani2000@gmail.com
+e-mail: r.abtahi1378@gmail.com
 
-telegram id: @farzaneh_koohestani
+telegram id: @Reyhan_abt
