@@ -15,6 +15,10 @@ This project was done as a team by me and [@Farzaneh Koohestani](https://github.
 
 * Ability to categorize and search for properties in various ways. (based on area, number of rooms, villa or apartment, price, etc.)
 
+# Example
+![see example picture here](example1.jpg)
+![see example picture here](example2.jpg)
+
 # Support:
 
 **Contact me @:**
